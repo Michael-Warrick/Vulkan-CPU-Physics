@@ -13,7 +13,7 @@ An almost identical copy of my [Vulkan-Compute-with-Graphics](https://github.com
 ## Getting Started
 ### Clone the repository with the `--recursive` flag:
 ```shell
-$ git clone --recursive https://github.com/Michael-Warrick/Vulkan-Compute-with-Graphics.git
+$ git clone --recursive https://github.com/Michael-Warrick/Vulkan-CPU-Physics.git
 ```
 ### Navigate to the project's root directory and create a `build/` folder:
 ```shell
